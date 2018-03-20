@@ -3,9 +3,10 @@ package com.atguigu;
 public class test {
 
 	public static void main(String[] args) {
-		System.out.println("×îÊìÏ¤µÄÄ°ÉúÈË");
+		System.out.println("æœ€ç†Ÿæ‚‰çš„é™Œç”Ÿäºº");
 		System.out.println("keshiyibuyibu");
-		System.out.println("ÊÀ½ç×îºÃµÄ×òÌì");
+		System.out.println("ä¸–ç•Œæœ€å¥½çš„æ˜¨å¤©");
+		System.out.println("æˆ‘ä»¬çš„çºªå¿µ");
 	}
 
 }
